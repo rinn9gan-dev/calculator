@@ -1,7 +1,7 @@
 {
   "name": "calculator-project",
   "version": "1.0.0",
-  "description": "Simply calculator",
+  "description": "Simple calculator",
   "main": "index.js",
   "scripts": {
     "build": "./node_modules/.bin/webpack"
