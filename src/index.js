@@ -1,3 +1,5 @@
+import './style.css';
+
 document.insert = (num) => {
     document.form.textview.value = document.form.textview.value + num;
 }
@@ -15,3 +17,5 @@ document.equal = () => {
     const string = document.form.textview.value;
     document.form.textview.value = eval(string);
 }
+
+
